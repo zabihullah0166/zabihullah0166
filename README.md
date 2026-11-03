@@ -1,60 +1,209 @@
-<p align="center">
-  <samp>
-    zabihullah0166 / README.md
-  </samp>
-</p>
+# 👋 Hi, I'm Zabih Ullah
 
-<h1 align="center">Zabih Ullah</h1>
-<p align="center"><strong>Artificial Intelligence Graduate • .NET Intern • AI Developer</strong></p>
+<div align="center">
 
-<p align="center">
-  <em>Building intelligent systems, scalable backend architectures, and production-grade AI solutions.</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Graduate;AI+Engineer+%7C+Backend+Developer;Building+Intelligent+AI+Applications;Exploring+Agentic+AI+%26+LLM+Systems" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="GitHub"></a>
-  <a href="https://vercel.app" target="_blank"><img src="https://shields.io" alt="Portfolio"></a>
-  <a href="mailto:zabihullah1926@gmail.com"><img src="https://shields.io" alt="Email"></a>
-  <a href="https://wa.me" target="_blank"><img src="https://shields.io" alt="WhatsApp"></a>
-</p>
+### AI Engineer | Backend Developer | Software Engineer
+
+*Building intelligent applications, scalable backend systems, and practical AI solutions.*
 
 <br/>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>💬 About Me</h3>
-      <p>
-        I am an <strong>Artificial Intelligence graduate</strong> from the University of Haripur with practical experience building end-to-end machine learning, computer vision, and backend systems. 
-      </p>
-      <p>
-        Currently, I am working as a <strong>.NET Intern at Augit Technologies</strong>, where I develop enterprise web applications using C#, ASP.NET Core MVC, and Entity Framework Core. Previously, as an <strong>AI Intern at Revnix Technologies</strong>, I built LLM-powered RAG agents, autonomous WhatsApp/Voice ordering pipelines, and high-impact HR automation systems using n8n.
-      </p>
-      <p>
-        I thrive at the intersection of production software engineering and cutting-edge intelligence, designing robust REST APIs and workflow automations that solve real-world problems.
-      </p>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <img src="https://cloudflare.com" width="70%" style="filter: invert(0.5);" alt="Developer Illustration">
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zabihullah0166)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zabihullah1926@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=zabihullah0166&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-### 🛠️ Technical Core Competencies
+</div>
 
-* **Languages:** Python, C#, C++, C, JavaScript, SQL Server, HTML/CSS
-* **AI & Machine Learning:** Agentic AI, Generative AI (LLMs), RAG Pipelines, Multi-Agent Systems, Computer Vision (OpenCV, YOLOv8, Face Recognition)
-* **Frameworks & Framework Tools:** FastAPI, ASP.NET Core MVC, Entity Framework, LangChain, LangGraph, SQLAlchemy
-* **Databases & Tools:** SQL Server, MongoDB, Pinecone, FAISS, Docker, Git, n8n Automation
+---
 
-<br/>
+## 👨‍💻 About Me
 
-### 🚀 Highlighted Projects
+I'm an **Artificial Intelligence graduate from the University of Haripur, Pakistan**, passionate about building intelligent software systems and solving real-world problems through AI and software engineering.
 
-* **Campus Surveillance System:** A real-time university monitoring workflow using facial recognition and automated incident/fine challan generation.
-* **Luxstore Voice AI:** An e-commerce platform integrated with a conversational hands-free voice shopping assistant (FastAPI, Whisper AI, Cartesia TTS).
-* **Meta WhatsApp Agent:** A multimodal AI assistant managing text/voice inputs, real-time web querying, and spoken responses using Gemini 2.5 and LangGraph.
-* **N8N-Based Attendance Automation:** Fully automated employee tracking via Slack punch logs to Google Sheets for a 60-person workforce.
+My experience combines AI development, backend engineering, and modern application development.
+
+- 🔭 **Currently Working:** .NET Intern at Augit Technologies, developing applications using C#, ASP.NET Core MVC, and Entity Framework Core.
+- 🤖 **Previous Experience:** AI Intern at Revnix Technologies, working on LLM-powered applications, RAG systems, AI agents, and workflow automation.
+- 🧠 **AI Interests:** Agentic AI, Generative AI, Large Language Models, RAG, and Multi-Agent Systems.
+- 💻 **Software Engineering:** Python, C#, REST APIs, backend development, and database integration.
+- 🚀 **Goal:** Building reliable, scalable, and intelligent applications that solve practical industry problems.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,c,js,html,css" />
+</p>
+
+### AI & Machine Learning
+
+- Generative AI and Large Language Models (LLMs)
+- Agentic AI and Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering and Tool Calling
+- Computer Vision and Object Detection
+- YOLOv8, OpenCV, and PyTorch
+
+### Frameworks & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,flask,react,nodejs" />
+</p>
+
+- ASP.NET Core MVC and Entity Framework Core
+- LangChain and LangGraph
+- FastAPI and SQLAlchemy
+- REST API Development
+- AI Application Integration
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github,linux" />
+</p>
+
+- SQL Server and PostgreSQL
+- MongoDB and SQLite
+- Pinecone and FAISS
+- Git and GitHub
+- Docker and n8n Automation
+
+---
+
+## 💼 Professional Experience
+
+### .NET Intern — Augit Technologies
+*Current Role*
+
+- Developing enterprise-oriented web applications.
+- Working with C# and ASP.NET Core MVC.
+- Implementing database operations using Entity Framework Core.
+- Exploring scalable software architecture and backend development.
+
+### AI Intern — Revnix Technologies
+
+- Developed LLM-powered applications and RAG pipelines.
+- Built AI agents and multi-agent workflows using LangChain and LangGraph.
+- Integrated AI services with REST APIs and external platforms.
+- Developed voice AI and WhatsApp automation workflows.
+- Worked on business process automation using n8n.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Campus Surveillance & Automated Disciplinary System
+
+An AI-powered campus monitoring system designed to identify prohibited activities and automate disciplinary workflows.
+
+- Real-time object detection using YOLOv8.
+- Facial recognition and student identification.
+- Automated incident detection and evidence logging.
+- Student portal and administrative dashboard.
+- Automated fine management and reporting.
+
+**Tech:** Python · FastAPI · React · YOLOv8 · OpenCV · SQLite
+
+[View Repository](https://github.com/zabihullah0166/Campus-Surveillance-System)
+
+### 🤖 AI Agents & Multi-Agent Systems
+
+Developed intelligent AI applications involving LLM integrations, autonomous workflows, and external tool execution.
+
+- LangChain and LangGraph-based agent workflows.
+- Tool calling and API integrations.
+- Context-aware AI applications.
+- Automated information retrieval and processing.
+
+**Tech:** Python · LangChain · LangGraph · FastAPI · LLMs
+
+### 🎙️ Voice AI & Conversational Systems
+
+Developed conversational voice applications integrating speech recognition, language models, and text-to-speech services.
+
+- Speech-to-text using Whisper.
+- Conversational AI integration.
+- Text-to-speech using Cartesia and ElevenLabs.
+- Backend integrations and webhook automation.
+
+**Tech:** Python · Whisper · Cartesia · ElevenLabs · REST APIs
+
+### 📱 WhatsApp Multimodal AI Assistant
+
+An AI-powered assistant integrating conversational AI with messaging and external information retrieval.
+
+- Gemini-powered AI interactions.
+- LangGraph-based agent workflows.
+- Multimodal input processing.
+- Web querying and API integrations.
+
+**Tech:** Python · Gemini · LangGraph · APIs
+
+### ⚙️ Business Workflow Automation
+
+Built automated business workflows connecting communication platforms, AI services, and databases.
+
+- Slack-based employee attendance automation.
+- Google Sheets integration.
+- Webhook-based workflow processing.
+- Automated data handling using n8n.
+
+**Tech:** n8n · Python · Slack · Google Sheets · APIs
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zabihullah0166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabihullah0166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=zabihullah0166&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zabihullah0166&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with AI engineers, software developers, researchers, and technology enthusiasts.
+
+Open to opportunities involving:
+
+- AI Engineering and Generative AI
+- Backend and Python Development
+- Agentic AI and LLM Applications
+- Research and Graduate Studies
+
+<div align="center">
+
+**Let's build something intelligent together!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-zabihullah0166-181717?style=for-the-badge&logo=github)](https://github.com/zabihullah0166)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail)](mailto:zabihullah1926@gmail.com)
+
+⭐ *Thanks for visiting my profile!*
+
+</div>
