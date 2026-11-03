@@ -158,42 +158,29 @@ Built automated business workflows connecting communication platforms, AI servic
 
 **Tech:** n8n · Python · Slack · Google Sheets · APIs
 
+
+
 ---
+
+## 📈 GitHub Contribution Activity
+
+<div align="center">
+
+![GitHub Contribution Graph](https://gh-heat.anishroy.com/api/zabihullah0166/svg?darkMode=true&bg=000000&colors=161616,006400,00A000,00D000,39FF14&cellSize=14&borderColor=333333)
+
+**Building consistently. Learning continuously. 🚀**
+
+</div>
+
+---
+
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://ghstats.dev/api/card?username=zabihullah0166&theme=dark)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zabihullah0166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+![Top Languages](https://ghstats.dev/api/langs?username=zabihullah0166&theme=dark&layout=donut)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabihullah0166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=zabihullah0166&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/zabihullah0166/zabihullah0166/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/zabihullah0166/zabihullah0166/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/zabihullah0166/zabihullah0166/output/github-contribution-grid-snake.svg"
-    width="100%">
-</picture>
-
-</div>
-
----
 
 
 ## 🤝 Let's Connect
